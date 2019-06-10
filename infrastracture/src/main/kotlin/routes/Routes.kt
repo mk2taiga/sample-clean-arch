@@ -1,8 +1,15 @@
-package com.sample.routes
+package routes
 
+import controller.UserController
+import io.ktor.application.call
+import io.ktor.locations.KtorExperimentalLocationsAPI
+import io.ktor.locations.Location
+import io.ktor.locations.get
+import io.ktor.response.respond
 import io.ktor.routing.Routing
 import io.ktor.routing.route
 import org.koin.ktor.ext.inject
+
 
 @KtorExperimentalLocationsAPI
 fun Routing.root() {

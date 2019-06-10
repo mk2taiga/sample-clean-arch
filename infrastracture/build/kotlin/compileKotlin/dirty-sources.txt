@@ -1,0 +1,3 @@
+/Users/taigamiyazaki/Downloads/sample-clean-arch/infrastracture/src/main/kotlin/Application.kt
+/Users/taigamiyazaki/Downloads/sample-clean-arch/infrastracture/src/main/kotlin/module/KoinModuleBuilder.kt
+/Users/taigamiyazaki/Downloads/sample-clean-arch/infrastracture/src/main/kotlin/routes/Routes.kt

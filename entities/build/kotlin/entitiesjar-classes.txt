@@ -1,0 +1,1 @@
+/Users/taigamiyazaki/Downloads/sample-clean-arch/entities/build/classes/kotlin/main/entity/UserEntity.class
