@@ -15,7 +15,7 @@ import io.ktor.response.respond
 import io.ktor.routing.routing
 import io.ktor.server.engine.embeddedServer
 import io.ktor.server.netty.Netty
-import mapper.ObjectMapperBuilder
+import di.ObjectMapperBuilder
 import org.koin.ktor.ext.installKoin
 import routes.root
 

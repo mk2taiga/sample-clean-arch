@@ -1,6 +1,5 @@
 group 'interfaces'
 dependencies {
-    implementation project(':common-core')
     implementation project(':entities')
     implementation project(':domain')
 }

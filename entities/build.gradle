@@ -1,4 +1,1 @@
 group 'entities'
-dependencies {
-    implementation project(':common-core')
-}

@@ -1,5 +1,4 @@
 group 'domain'
 dependencies {
-    implementation project(':common-core')
     implementation project(':entities')
 }
